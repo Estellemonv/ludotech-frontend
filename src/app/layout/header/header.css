@@ -1,0 +1,17 @@
+.header {
+  height: 72px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 2rem;
+
+  background: #f3f4f6;
+  border-bottom: 1px solid #d1d5db;
+}
+
+p {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
